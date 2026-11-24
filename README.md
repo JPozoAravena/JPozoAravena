@@ -1,4 +1,4 @@
-### Hi, I'm Juan Pozo 👋
+### Hi, I'm Juan Pozo Aravena👋
 
 Software Engineer from Chile building full-stack products with TypeScript, applied AI and DevSecOps practices. Open to remote roles (LatAm/US time zones) and positions in Santiago.
 
