@@ -1,6 +1,6 @@
 ### Hi, I'm Juan Pozo Aravena 👋
 
-Software Engineer from Chile building full-stack products with TypeScript, applied AI and DevSecOps practices. Open to remote roles (LatAm/US time zones) and positions in Santiago.
+Software Engineer from Chile building full-stack products with TypeScript, applied AI and DevSecOps practices. Open to remote roles (Latam/US time zones) and positions in Santiago.
 
 **Featured projects**
 - [ConciliaPyme](https://github.com/JPozoAravena/conciliapyme): bank reconciliation for Chilean SMEs. Next.js, PostgreSQL, MongoDB, Playwright, CI with SonarQube Cloud. [Live demo](https://conciliapyme.vercel.app)
@@ -17,7 +17,7 @@ Software Engineer from Chile building full-stack products with TypeScript, appli
 
 <br>
 
-Ingeniero de software chileno. Construyo productos full-stack con TypeScript, IA aplicada y prácticas DevSecOps. Disponible para trabajo remoto (zonas horarias LatAm/EE. UU.) y cargos en Santiago.
+Ingeniero de software chileno. Construyo productos full-stack con TypeScript, IA aplicada y prácticas DevSecOps. Disponible para trabajo remoto (zonas horarias Latam/EE. UU.) y cargos en Santiago.
 
 **Proyectos destacados**
 - [ConciliaPyme](https://github.com/JPozoAravena/conciliapyme): conciliación bancaria para pymes chilenas. Next.js, PostgreSQL, MongoDB, Playwright y CI con SonarQube Cloud. [Demo en vivo](https://conciliapyme.vercel.app)
